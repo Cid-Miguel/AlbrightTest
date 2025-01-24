@@ -5,7 +5,7 @@ def add(a, b):
 # Function for subtraction
 def substractiion(a, b):
     return a - b
-
+#### Marie please create again the multiplication function here...
 
 # Function for division
 def divide(a, b):
@@ -14,7 +14,9 @@ def divide(a, b):
     else:
         return "Division by zero is not allowed!"
 
-# Main program
+##### Laura please create a pow function and print it.
+
+# Main program ##### Paco please change the print down here for a different and creative text.
 print("Basic Arithmetic Operations")
 num1 = float(input("Enter the first number: "))
 num2 = float(input("Enter the second number: "))
