@@ -6,10 +6,6 @@ def add(a, b):
 def substractiion(a, b):
     return a - b
 
-# Function for multiplication ##### Please delete the multiply function 
-def multiply(a, b):
-    return a * b
-
 # Function for division
 def divide(a, b):
     if b != 0:
