@@ -17,7 +17,7 @@ def divide(a, b):
 ##### Laura please create a pow function and print it.
 
 # Main program ##### Paco please change the print down here for a different and creative text.
-print("Basic Arithmetic Operations")
+print("Hello, Github")
 num1 = float(input("Enter the first number: "))
 num2 = float(input("Enter the second number: "))
 
