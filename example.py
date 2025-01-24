@@ -3,9 +3,10 @@ def add(a, b):
     return a + b
 
 # Function for subtraction
-####DELETED
+def substractiion(a, b):
+    return a - b
 
-# Function for multiplication
+# Function for multiplication ##### Please delete the multiply function 
 def multiply(a, b):
     return a * b
 
