@@ -5,7 +5,10 @@ def add(a, b):
 # Function for subtraction
 def substractiion(a, b):
     return a - b
-#### Marie please create again the multiplication function here...
+
+# Function for multiplication
+def multiply(a, b):
+    return a * b
 
 # Function for division
 def divide(a, b):
