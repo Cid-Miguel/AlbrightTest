@@ -1,3 +1,4 @@
+import math
 # Function for addition
 def add(a, b):
     return a + b
@@ -17,6 +18,10 @@ def divide(a, b):
     else:
         return "Division by zero is not allowed!"
 
+def expo (a,b): 
+    return math.pow(a,b)
+    
+
 ##### Laura please create a pow function and print it.
 
 # Main program ##### Paco please change the print down here for a different and creative text.
@@ -29,3 +34,4 @@ print(f"Addition: {add(num1, num2)}")
 print(f"Subtraction: {subtract(num1, num2)}")
 print(f"Multiplication: {multiply(num1, num2)}")
 print(f"Division: {divide(num1, num2)}")
+print(f"expo: {expo(num1, num2)}")
