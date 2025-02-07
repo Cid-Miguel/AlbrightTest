@@ -21,6 +21,7 @@ def divide(a, b):
 
 # Main program ##### Paco please change the print down here for a different and creative text.
 print("Basic Arithmetic Operations")
+print("Hello, How was your day?")
 num1 = float(input("Enter the first number: "))
 num2 = float(input("Enter the second number: "))
 
